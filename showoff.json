@@ -1,7 +1,0 @@
-{ 
-  "name": "TTPS: ruby", 
-  "sections": [ 
-    {"section":"00-presentacion"},
-    {"section":"01-agiles"} 
-  ]
-}
